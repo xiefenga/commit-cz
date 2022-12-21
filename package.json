@@ -1,0 +1,18 @@
+{
+  "name": "commit-cz",
+  "private": true,
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "husky": "^8.0.2",
+    "commitlint": "^17.3.0",
+    "@0x1461a0/cz-config": "workspace:*",
+    "@0x1461a0/commitlint-config": "workspace:*"
+  },
+  "commitlint": {
+    "extends": [
+      "@0x1461a0"
+    ]
+  }
+}

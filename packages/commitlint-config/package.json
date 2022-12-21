@@ -1,0 +1,14 @@
+{
+  "name": "@0x1461a0/commitlint-config",
+  "version": "0.0.4",
+  "description": "personal commitlint config",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "author": "xiefeng",
+  "license": "ISC",
+  "dependencies": {
+    "@0x1461a0/cz-config": "workspace:*"
+  }
+}
