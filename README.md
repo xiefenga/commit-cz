@@ -1,0 +1,1 @@
+personal commitlint rules and cz-customizable config 
